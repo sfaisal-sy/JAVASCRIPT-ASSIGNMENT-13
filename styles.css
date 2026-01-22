@@ -6,6 +6,7 @@ body {
 .container {
     border: 6px solid yellow;
     margin: 30px auto;
+    width:500px;
 }
 
 .row {
