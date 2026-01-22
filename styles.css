@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.container {
+    border: 6px solid yellow;
+    margin: 30px auto;
+}
+
+.row {
+    border: 4px solid green;
+    
+    
+}
+
+.col {
+    border: 2px solid red;
+    padding: 1em;
+}
+
+.col-1, .col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12 {
+    border: 1px solid blue;
+    padding: 1em;
+
+}
+
+
+.navbar {
+    background-color: rgb(196, 170, 170);
+    color: antiquewhite;
+}
+
+.nav-link, .navbar-brand {
+    color: antiquewhite;
+}
+
+
+/* /////////////////////////////////////////////////////////// */
+.h1 {
+    text-align: center;
+}
+#inputtext {
+    height: 4em;
+    border-radius: 20px;
+    background-color: rgb(32, 22, 22);
+    color: antiquewhite;
+}
+
+p {
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+
+.container {
+
+}
+.form-control{
+    height: 4em;
+    font-size: xx-large;    
+    background-color: rgb(12, 127, 241);
+}
+
+.btn{
+    width: 100%;
+
+    font-size: xx-large;
+}
